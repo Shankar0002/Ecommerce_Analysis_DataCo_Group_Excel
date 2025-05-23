@@ -49,7 +49,7 @@ This project involves a detailed analysis of ecommerce sales using Microsoft Exc
 5.  The average number of product views per IP address to assess user engagement is 789.47
 6.  Delivery Status is as follows ,55%-late deliveries ,18%-Shipping on time ,4%-shipping cancelled ,23%-Advance shipping
 7.  Delivery Status breakdown by market
-   ![Dashboard Screenshot]()
+   ![Dashboard Screenshot](https://github.com/Shankar0002/Ecommerce_Analysis_DataCo_Group_Excel/blob/main/delivery_status.png?raw=true)
 
    
 
