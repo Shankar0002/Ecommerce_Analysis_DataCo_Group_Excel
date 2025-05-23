@@ -42,11 +42,16 @@ This project involves a detailed analysis of ecommerce sales using Microsoft Exc
 
 ## Key Insights
 
-1. High-value customers are concentrated in [Region].
-2. Product Category **X** generated the highest profit.
-3. Returns mostly occur in [Month or Category], indicating a quality issue.
-4. Repeat customers have 30% higher AOV (Average Order Value).
-5. [Add 1–2 more insights from your Excel work.]
+1. High-value customers are concentrated in EE.UU in Chicago.
+2. Total customer order count from EE.UU is 42907 and count of customer order from Puerto Rico is 27092
+3. Average order per customer is 7.9408
+4. Peak Traffic Time Analysis is at 21st Hour  with 3917 no of orders
+5.  The average number of product views per IP address to assess user engagement is 789.47
+6.  Delivery Status is as follows ,55%-late deliveries ,18%-Shipping on time ,4%-shipping cancelled ,23%-Advance shipping
+7.  Delivery Status breakdown by market
+   ![Dashboard Screenshot]()
+
+   
 
 ---
 
