@@ -36,7 +36,7 @@ This project involves a detailed analysis of ecommerce sales using Microsoft Exc
 
 ## Sample Dashboard View
 
-![Dashboard Screenshot](screenshots/dashboard_view.png)
+![Dashboard Screenshot](https://github.com/Shankar0002/Ecommerce_Analysis_DataCo_Group_Excel/blob/main/excel.png?raw=true)
 
 ---
 
