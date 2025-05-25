@@ -48,7 +48,6 @@ This project involves a detailed analysis of ecommerce sales using Microsoft Exc
 4. Peak Traffic Time Analysis is at 21st Hour  with 3917 no of orders
 5.  The average number of product views per IP address to assess user engagement is 789.47
 6.  Delivery Status is as follows ,55%-late deliveries ,18%-Shipping on time ,4%-shipping cancelled ,23%-Advance shipping
-   ![Dashboard Screenshot](https://github.com/Shankar0002/Ecommerce_Analysis_DataCo_Group_Excel/blob/main/delivery_status.png?raw=true)
 
    
 
